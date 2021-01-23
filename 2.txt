@@ -1,0 +1,35 @@
+Java Coding Competition 2:
+
+For this coding competition, you will have ten more problems to solve in 30 minutes, and the first team to solve them all correctly will win.
+You can have teams of up to four people, or work individually. Write one program called CodingCompetition with all the methods for the competition.Good luck!
+
+Problem 1: Return a reversed int Array
+Given an int Array arr, write a method int[] reverseArray(int[] arr) that returns an Array containing all of arr's elements in reverese order.
+
+Problem 2: Find Anagram
+Given two Strings, write a method boolean isAnagram(String str1, String str2) that returns true if they are anagrams for each other, and false if they are not.
+
+Problem 3: String to String[]
+Given a String str, write a method String[] toStringArray(String str) return a String Array that separates str each time there is whitespace or punctuation.
+
+Problem 4: Swap numbers
+Given two ints, write a method swap(int a, int b) to swap their values and print them WITHOUT using a temp variable.
+
+Problem 5: Sum of Digits
+Given an int, write a method int sumDigits(int n) that returns the number of digits in an integer.
+
+Problem 6: Factorial
+Given an int, write a method int factorial(int n) that returns the factorial of the number. (Hint: factorial is the product of a number and all the integers below it.
+For example, factorial of 5 = 5*4*3*2*1 = 120.)
+
+Problem 7: Remove Duplicates
+Given an Array of Strings, write a method String[] removeDuplicates(String[] arr) that returns arr with all duplicate elements removed
+
+Problem 8: First n prime numbers
+Given an int n, write a method int[] primes(n) that returns all prime numbers <= n.
+
+Problem 9: Sort an Array of ints
+Given an int[], write a method int[] sort(int[] arr) without using library methods that returns the elements of arr in order from lowest to highest.
+
+Problem 10: Add two numbers without the + operator
+Given two ints, write a method int add(int a, int b) that returns their sum WITHOUT using the + operator. (Hint: you need to use bitwise operators.)
