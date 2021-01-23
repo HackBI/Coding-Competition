@@ -1,0 +1,39 @@
+Coding Competition 1:
+
+For this coding competition, you will have ten problems to solve in an hour, and the first team to solve them all correctly will win.
+You can have teams of up to four people, or you can work individually. Write one program called CodingCompetition1 with all the methods for the competition.
+Good luck!
+
+Problem 1: Checking Uppercase
+Given a String, write a method checkLowerCase(String s) that returns true if the String is in all lowercase and false otherwise.
+
+Problem 2: Find Triangle Area
+Given the three side lengths of a triangle, write a method getArea(int s1, int s2, int s3) That returns the area of a triangle with those three side lengths.
+(Hint: Use Heron's Formula).
+
+Problem 3: Check Perfect Squares
+Given an int, write a method checkPerfectSquare(int n) that checks wether n is a perfect square and returns true if it is, and false if it isn't.
+
+Problem 4: Find all Possible Combinations
+Given the length of a String that only contains numbers and letters, write a method getAllCombinations(int length) that returns the number of possible 
+combinations of letters and numbers in a String of that length. (Hint: Java is case-sensitive, so make sure to include both lowercase and uppercase letters).
+
+Problem 5: Fibonacci Numbers
+Write a method fibonacci(int n) that returns an array of the first n fibonacci numbers. (Hint: In the Fibonacci sequence, the next number is found 
+by adding up the two numbers before it).
+
+Problem 6: Compare Binary Strings
+Given a two Strings representing binary numbers, write a method binaryCompareTo(String s1, String s2) that outputs -1 when the first number is larger, 1 
+when the first number is smaller, and zero when they are the same.
+
+Problem 7: Interest rate
+Given one double and one int, write a method getInterest(int startingAmount, int y) That returns the value of startingAmount after y
+years with an assumed 5% interest each year.
+
+Problem 8: String to Array
+Given a String with multiple words separated by spaces, write a method toArray(String s) that returns a String[] that contains all the words in the String
+with any spaces or puncuation removed.
+
+Problems 9-10: Mean and Mode
+Given an array of ints, write two methods: getMean(int[] array), and getMode(int[] array) that return the average and the most frequently occurring number
+in the array respectively. (Hint: If the array has no mode, return 0 for getMode). 
